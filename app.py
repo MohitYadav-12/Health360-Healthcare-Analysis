@@ -5,13 +5,13 @@ app = Flask(__name__)
 # Updated Tableau Public views supplied by the project owner.
 DASHBOARD_URL = (
     'https://public.tableau.com/views/'
-    'Health360-Healthcare-Analytics-Dashboard_17932825062180/'
+    'Health360-Healthcare-Analytics-Dashboard_17932842039910/'
     'SmartHealthcareAnalyticsPatientRiskLifestyleInsights'
     '?:language=en-US&:showVizHome=no'
 )
 STORY_URL = (
     'https://public.tableau.com/views/'
-    'Health360-Healthcare-Analytics-Story_17932825385470/'
+    'Health360-Healthcare-Analytics-Story_17932842170020/'
     'SmartHealthcareAnalyticsPatientRiskLifestyleInsights'
     '?:language=en-US&:showVizHome=no'
 )
